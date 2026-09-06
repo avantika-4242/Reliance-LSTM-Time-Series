@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+tensorflow_env/
+env/
+.vscode/
+.idea/
+
+*.h5
+*.keras
+
+*.png
