@@ -187,4 +187,4 @@ Stock-price predictions are inherently uncertain and should not be treated as fi
 
 ## Author
 
-Marvellous Infosystems
+Avantika Kedari
